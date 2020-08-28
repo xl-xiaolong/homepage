@@ -1,0 +1,4 @@
+在65行添加
+    <div id="aplayer" class="aplayer" data-order="random" data-id="5201394301" data-server="netease" data-type="playlist" data-fixed="true" data-autoplay="true" data-volume="0.8"></div>
+    <!-- aplayer -->
+
